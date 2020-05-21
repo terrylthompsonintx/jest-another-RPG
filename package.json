@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command line rpg. ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrylthompsonintx/jest-another-RPG.git"
+  },
+  "author": "Terry Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrylthompsonintx/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/terrylthompsonintx/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
